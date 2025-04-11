@@ -1,5 +1,6 @@
 import React from 'react';
 import Home from './components/Home';
+import { Analytics } from "@vercel/analytics/react"
 
 const App = () => {
   return (
